@@ -5,4 +5,5 @@ _Estudiante de ingenieria de software_
 # De donde soy
 Veracruz, Mexico
 
-hola
+# Mascota
+![Esta es mis mascota](imagenes/perro,jpg)
