@@ -14,3 +14,15 @@ Veracruz, Mexico
 let hola = "hola lundo";
 console.log(hola);
 ```
+
+# listas
+
+- Uno 
+- dos
+- tres
+- cuatro
+-  cuatro punto uno
+
+1. Uno
+1. Dos 
+1. Tres
