@@ -7,3 +7,10 @@ Veracruz, Mexico
 
 # Mascota
 ![Esta es mis mascota](imagenes/perro,jpg)
+
+# Codigo 
+`git branch` 
+```javascript
+let hola = "hola lundo";
+console.log(hola);
+```
