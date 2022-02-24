@@ -1,3 +1,6 @@
-Hola mundo
+Soy **Brando Cruz**
 
-Adios mundo 
+_Estudiante de ingenieria de software_
+
+# De donde soy
+Veracruz, Mexico
