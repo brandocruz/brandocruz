@@ -6,7 +6,7 @@ _Estudiante de ingenieria de software_
 Veracruz, Mexico
 
 # Mascota
-![Esta es mis mascota](imagenes/perro,jpg)
+![Esta es mis mascota](imagenes/perro.jpg)
 
 # Codigo 
 `git branch` 
